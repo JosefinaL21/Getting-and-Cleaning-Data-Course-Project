@@ -5,7 +5,8 @@ File "run_analysis.R" goes through all the previous steps, to create the final_t
 
 #"final_tidydata.txt"  Is the output file     tibble [180 x 88] (S3: grouped_df/tbl_df/tbl/data.frame)
 
-#- 'features_info.txt': Shows information about the variables used on the feature vector.
+#About Documents
+- 'features_info.txt': Shows information about the variables used on the feature vector.
 
 - 'features.txt': List of all features.
 
